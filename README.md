@@ -73,7 +73,7 @@ then execute the command below (don't forget to start ganach)
 
 **contract Verifier    :** [etherscan verifier record contract trx](https://rinkeby.etherscan.io/address/0x4a69719de2071654d180b9fe6ddd18bfdb87ab22)  
 
-**contract SolnSquareVerifier    :** [etherscan verifier record contract trx](https://rinkeby.etherscan.io/address/0xfba5f6739c4f56c482a982805b0bd84bcd7e26e3)
+**contract SolnSquareVerifier    :** [etherscan SolnSquareVerifier record contract trx](https://rinkeby.etherscan.io/address/0xfba5f6739c4f56c482a982805b0bd84bcd7e26e3)
 
 
 ## 10 NFT minted:
