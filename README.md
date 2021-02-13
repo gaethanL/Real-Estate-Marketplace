@@ -70,6 +70,12 @@ then execute the command below (don't forget to start ganach)
 ## Deploy SolnSquareVerifier & Verifier contracts to Rinkeby network:
 ![contracts deployed logs](https://i.imgur.com/CTqUqos.png)
 
+
+**contract Verifier    :** [etherscan verifier record contract trx](https://rinkeby.etherscan.io/address/0x4a69719de2071654d180b9fe6ddd18bfdb87ab22)  
+
+**contract SolnSquareVerifier    :** [etherscan verifier record contract trx](https://rinkeby.etherscan.io/address/0xfba5f6739c4f56c482a982805b0bd84bcd7e26e3)
+
+
 ## 10 NFT minted:
 
 ![NFT minted logs](https://i.imgur.com/PT3Zwmz.png)
