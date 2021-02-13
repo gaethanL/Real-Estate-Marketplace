@@ -3,6 +3,12 @@
 
 ###### The developpement and the test were done on a  Ubuntu 20.04.1 LTS -v focal.
 
+## Module used:
+ - Truffle v5.1.54
+ - node v11.15.0
+ - npm v6.7.0
+ - truffle-hdwallet-provider
+ - web3 v6.7.0
 
 ## Frontend dapp:
 A minimal frontend is provide in order to mint the nft. [DAHOUSE](https://gateway.ipfs.io/ipfs/QmaVQgU9vnqGckaX6wm22wrfVQe7yeNzXbWzJRcBSpsLT1?fbclid=IwAR1UdyJSL7hoQnUMF98X7auIL8h6cWLOUCwCZ7CFqALbvbsRXtm8W_cn5rc#market) 
