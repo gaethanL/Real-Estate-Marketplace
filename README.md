@@ -17,15 +17,17 @@ A minimal frontend is provide in order to mint the nft. [DAHOUSE](https://gatewa
 
 ### ABI's of the contracts deployed
 
+**SolnSquareVerifier**
+
 ![SolnSquareVerifier](https://i.imgur.com/AB5w4EI.png)
 
-**SolnSquareVerifier**
+
+**Verifier**
 
 
 ![Verifier](https://i.imgur.com/FOH5oYX.png)
 
 
-**Verifier**
 
 ## Tests scripts to verify the solidity contracts: 
 
